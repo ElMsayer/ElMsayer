@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @El Msayer Mohamed working as Data Engineer with knowledge across many domains of data including developing technical solutions for data collection, massive data processing, data storage, transformation and visualization, machine learning.
-- 👀 I’m interested in Data Engineer, Software development and Machine Learning, natural language processing, computer vision
+- 👀 I’m interested in Data Engineer, Software development and Machine Learning, Natural Language Processing, Computer Vision.
 - 🌱 Passionate about learning and implementing technology to ensure delivery of the highest quality solutions possible.
 - 👯 Focused on diverse technologies Big Data and unstructured data technologies including HDFS, Spark, Map Reduce, Hive, Impala, Cloudera, NoSQL, Oozie, Sqoop. 
 - 📫 You can reach me at (LinkedIn - Mohamed El Msayer, Twitter - @ElMsayer)
